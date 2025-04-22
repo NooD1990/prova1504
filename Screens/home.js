@@ -1,7 +1,4 @@
-import React from 'react';
-import {View, Text, Image, ScrollView, TextInput, Button} from 'react-native';
-import { useNavigation } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { View, Text, StyleSheet, Image} from 'react-native';
 
 const App = () => {
   return (
